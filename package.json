@@ -2,14 +2,14 @@
   "name": "cocktail-bar",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Myro4ka.github.io/cocktail-bar",
+  "homepage": "https://Hermangsua.github.io/Cocktail-bar-Team-Project",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /cocktail-bar/"
+    "build": "parcel build src/*.html --public-url /Cocktail-bar-Team-Project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Myro4ka/cocktail-bar.git"
+    "url": "git+https://github.com/Hermangsua/Cocktail-bar-Team-Project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
